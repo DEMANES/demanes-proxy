@@ -1,0 +1,6 @@
+Private-Package:  \
+	eu.artemis.demanes.lib.proxyConnector.server,\
+	eu.artemis.demanes.lib.proxyConnector
+Service-Component:  \
+	*
+Bundle-Version: 0.0.1

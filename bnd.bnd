@@ -1,0 +1,10 @@
+-buildpath:  \
+	biz.aQute.bnd.annotation,\
+	eu.artemis.demanes.demanesCoreInterface;version=latest,\
+	eu.artemis.demanes.demanesLibInterface;version=latest,\
+	eu.artemis.demanes.impl.communication;version=latest,\
+	log4j
+Service-Component:  \
+	*
+-sub:  \
+	*.bnd
